@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "create-react-native-app": "^3.9.0",
+    "react-native-track-player": "^3.2.0"
+  }
+}
